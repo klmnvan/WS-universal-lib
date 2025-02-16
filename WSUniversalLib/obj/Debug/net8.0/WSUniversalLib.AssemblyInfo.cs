@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WSUniversalLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+155a23992f006928a1631a7423097b7311608f7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WSUniversalLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WSUniversalLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
